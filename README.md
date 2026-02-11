@@ -1,8 +1,12 @@
 # SPEECH-RECOGNITION-SYSTEM
+# COMPANY - CODETECH IT SOLUTIONS
+# NAME: SUMEDH NARAYAN PATIL
+# INTERN ID: CTIS3852
+# DOMAIN: ARTIFICIAL INTELLIGENCE
+# DURATION: 4 WEEKS
+# MENTOR: NEELA SANTHOSH KUMAR
 
-
-
-DESCRIPTION:
+# DESCRIPTION:
 # 🎙️ Speech Recognition System (Speech-to-Text using Python)
 
 ## 📌 Project Overview
@@ -66,14 +70,6 @@ The model returns transcribed text.
 The system prints the recognized text to the console.
 This workflow ensures compatibility, accuracy, and stability.
 
-### 📂 Project Structure
-speech_recognition_system/
-│
-├── speech_to_text.py
-├── convert_audio.py
-├── converted_audio.wav
-└── README.md
-
 ### 🌍 Real-World Applications
 
 This system can be applied in:
@@ -103,3 +99,5 @@ Real-world AI system pipeline design
 
 ### ⭐ Conclusion
 This project demonstrates practical implementation of Artificial Intelligence concepts in speech processing systems. It highlights how pre-trained deep learning models can be integrated into lightweight Python applications for real-world use cases.
+
+### Output
