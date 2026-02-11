@@ -101,3 +101,4 @@ Real-world AI system pipeline design
 This project demonstrates practical implementation of Artificial Intelligence concepts in speech processing systems. It highlights how pre-trained deep learning models can be integrated into lightweight Python applications for real-world use cases.
 
 ### Output
+[output.txt](https://github.com/user-attachments/files/25239274/output.txt)
